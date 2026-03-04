@@ -1,0 +1,6 @@
+---
+title: "Project Python and R : part R"
+author: "VINCENT.Inès"
+date: "2026-02-16"
+output: html_document
+---
